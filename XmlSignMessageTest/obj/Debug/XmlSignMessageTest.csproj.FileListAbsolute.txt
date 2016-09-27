@@ -1,0 +1,26 @@
+c:\users\paulm\onedrive\documents\visual studio 2015\Projects\XmlSignMessage\XmlSignMessageTest\bin\Debug\XmlSignMessageTest.dll
+c:\users\paulm\onedrive\documents\visual studio 2015\Projects\XmlSignMessage\XmlSignMessageTest\bin\Debug\XmlSignMessageTest.pdb
+c:\users\paulm\onedrive\documents\visual studio 2015\Projects\XmlSignMessage\XmlSignMessageTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\paulm\onedrive\documents\visual studio 2015\Projects\XmlSignMessage\XmlSignMessageTest\bin\Debug\XmlSignMessage.dll
+c:\users\paulm\onedrive\documents\visual studio 2015\Projects\XmlSignMessage\XmlSignMessageTest\bin\Debug\XmlSignMessage.pdb
+c:\users\paulm\onedrive\documents\visual studio 2015\Projects\XmlSignMessage\XmlSignMessageTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\paulm\onedrive\documents\visual studio 2015\Projects\XmlSignMessage\XmlSignMessageTest\obj\Debug\XmlSignMessageTest.csprojResolveAssemblyReference.cache
+c:\users\paulm\onedrive\documents\visual studio 2015\Projects\XmlSignMessage\XmlSignMessageTest\obj\Debug\XmlSignMessageTest.dll
+c:\users\paulm\onedrive\documents\visual studio 2015\Projects\XmlSignMessage\XmlSignMessageTest\obj\Debug\XmlSignMessageTest.pdb
+C:\Users\PaulM\onedrive\documents\visual studio 2015\Projects\XmlSignMessage\XmlSignMessageTest\bin\Debug\TestData\request1.xml
+C:\Users\PaulM\onedrive\documents\visual studio 2015\Projects\XmlSignMessage\XmlSignMessageTest\bin\Debug\TestData\private.key
+C:\Users\PaulM\onedrive\documents\visual studio 2015\Projects\XmlSignMessage\XmlSignMessageTest\bin\Debug\TestData\publickey.cer
+C:\Users\PaulM\onedrive\documents\visual studio 2015\Projects\XmlSignMessage\XmlSignMessageTest\bin\Debug\TestData\public_privatekey.pfx
+C:\dev\XmlSignMessage\XmlSignMessageTest\bin\Debug\TestData\request1.xml
+C:\dev\XmlSignMessage\XmlSignMessageTest\bin\Debug\TestData\private.key
+C:\dev\XmlSignMessage\XmlSignMessageTest\bin\Debug\TestData\publickey.cer
+C:\dev\XmlSignMessage\XmlSignMessageTest\bin\Debug\TestData\public_privatekey.pfx
+C:\dev\XmlSignMessage\XmlSignMessageTest\bin\Debug\XmlSignMessageTest.dll
+C:\dev\XmlSignMessage\XmlSignMessageTest\bin\Debug\XmlSignMessageTest.pdb
+C:\dev\XmlSignMessage\XmlSignMessageTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\dev\XmlSignMessage\XmlSignMessageTest\bin\Debug\XmlSignMessage.dll
+C:\dev\XmlSignMessage\XmlSignMessageTest\bin\Debug\XmlSignMessage.pdb
+C:\dev\XmlSignMessage\XmlSignMessageTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\dev\XmlSignMessage\XmlSignMessageTest\obj\Debug\XmlSignMessageTest.csprojResolveAssemblyReference.cache
+C:\dev\XmlSignMessage\XmlSignMessageTest\obj\Debug\XmlSignMessageTest.dll
+C:\dev\XmlSignMessage\XmlSignMessageTest\obj\Debug\XmlSignMessageTest.pdb

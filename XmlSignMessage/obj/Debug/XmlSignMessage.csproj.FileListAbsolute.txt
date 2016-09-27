@@ -1,0 +1,10 @@
+c:\users\paulm\onedrive\documents\visual studio 2015\Projects\XmlSignMessage\XmlSignMessage\bin\Debug\XmlSignMessage.dll
+c:\users\paulm\onedrive\documents\visual studio 2015\Projects\XmlSignMessage\XmlSignMessage\bin\Debug\XmlSignMessage.pdb
+c:\users\paulm\onedrive\documents\visual studio 2015\Projects\XmlSignMessage\XmlSignMessage\obj\Debug\XmlSignMessage.csprojResolveAssemblyReference.cache
+c:\users\paulm\onedrive\documents\visual studio 2015\Projects\XmlSignMessage\XmlSignMessage\obj\Debug\XmlSignMessage.dll
+c:\users\paulm\onedrive\documents\visual studio 2015\Projects\XmlSignMessage\XmlSignMessage\obj\Debug\XmlSignMessage.pdb
+C:\dev\XmlSignMessage\XmlSignMessage\bin\Debug\XmlSignMessage.dll
+C:\dev\XmlSignMessage\XmlSignMessage\bin\Debug\XmlSignMessage.pdb
+C:\dev\XmlSignMessage\XmlSignMessage\obj\Debug\XmlSignMessage.csprojResolveAssemblyReference.cache
+C:\dev\XmlSignMessage\XmlSignMessage\obj\Debug\XmlSignMessage.dll
+C:\dev\XmlSignMessage\XmlSignMessage\obj\Debug\XmlSignMessage.pdb
