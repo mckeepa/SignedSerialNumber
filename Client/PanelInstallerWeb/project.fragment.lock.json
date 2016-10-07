@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "exports": {
+    "XmlSignMessage/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5.2",
+      "compile": {
+        "bin/Debug/XmlSignMessage.dll": {}
+      },
+      "runtime": {
+        "../packages/BouncyCastle.1.8.1/lib/BouncyCastle.Crypto.dll": {},
+        "bin/Debug/XmlSignMessage.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/XmlSignMessage.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    }
+  }
+}

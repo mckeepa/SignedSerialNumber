@@ -1,0 +1,7 @@
+C:\dev\XmlSignMessage\VerificationServiceTests\bin\Debug\VerificationServiceTests.dll
+C:\dev\XmlSignMessage\VerificationServiceTests\bin\Debug\VerificationServiceTests.pdb
+C:\dev\XmlSignMessage\VerificationServiceTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\dev\XmlSignMessage\VerificationServiceTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\dev\XmlSignMessage\VerificationServiceTests\obj\Debug\VerificationServiceTests.csprojResolveAssemblyReference.cache
+C:\dev\XmlSignMessage\VerificationServiceTests\obj\Debug\VerificationServiceTests.dll
+C:\dev\XmlSignMessage\VerificationServiceTests\obj\Debug\VerificationServiceTests.pdb

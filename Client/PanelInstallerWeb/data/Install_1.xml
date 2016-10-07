@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<request>
+  
+  <installer>   
+    <id >12345a</id >                                               
+    <first-name>John</first-name>
+    <last-name>Smith</last-name>                
+  </installer>                                                   
+  
+  <products>
+    <product>
+      <serial-number>12345xm</serial-number>             
+      <manufacturer> AblyTek Co Ltd</manufacturer>        
+    </product>                                             
+    <product>
+      <serial-number>12345xm</serial-number>     
+      <manufacturer> AblyTek Co Ltd</manufacturer>
+    </product>                                     
+  </products>                                    
+  
+  <installation-address>
+    <line1> 20 smith street</line1>          
+    <suburb></suburb>                        
+    <postcode></postcode>                    
+    <state> NSW </state>                     
+    <location >
+      <lat> 23.12344 </lat>               
+      <long> 23.12344 </long>             
+      <altitude>23.12344</altitude>       
+      <accuracy>23.12344</accuracy>       
+    </location >                                 
+  </installation-address>                   
+ 
+</request> 
